@@ -1,0 +1,13 @@
+[FILES]
+GAMES_ROOT = ""D:\Games"
+SAVE_DIR = "..ALL"
+GAMES_INFO = "games.json"
+
+[DEFAULTS]
+SAVE_DATE_FORMAT = "%%y/%%m/%%d %%H.%%M.%%S"  # escape per
+SAVE_FILE_FORMAT = "$character - $save_type $datetime"
+
+[COMMANDS]
+START = start, S
+SAVE = save, s
+LOAD = load, l

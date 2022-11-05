@@ -1,0 +1,13 @@
+{
+    "stoneshard" : {
+        "in_menu": true,
+        "game_root": "StoneShard",
+        "app_data_root": "StoneShard",
+        "exe": "StoneShard.exe",
+        "characters" : "characters_v1\\character_2",
+        "files": ["data.sav", "preview.png", "save.map"],
+        "save_manual": "save_1",
+        "save_exit": "exitsave_1",
+        "save_auto": "autosave_1"
+    }
+}
